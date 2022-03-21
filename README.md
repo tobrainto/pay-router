@@ -1,3 +1,4 @@
+# pay-router
 ```
 curl -X POST "http://localhost:9099/api/pay/router/test?type=ALI&version=V1" -H "accept: */*"
 
